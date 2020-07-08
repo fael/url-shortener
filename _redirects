@@ -1,0 +1,10 @@
+/.*5e8c7fff591c  https://kentcdodds.com/blog/full-time-educator
+/Uxoae     https://google.com
+/go        https://google.com
+/cli       https://example.com/from-cli
+/example   https://example.com/changed-hooray
+/foo       https://example.com/foo
+/demo      https://www.youtube.com/watch?v=HL6paXyx6hM
+/edit      https://github.com/kentcdodds/netlify-shortener-example/edit/master/_redirects
+
+/*         https://google.com
