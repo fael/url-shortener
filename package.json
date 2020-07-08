@@ -4,7 +4,7 @@
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "Rafael)",
+  "author": "Rafael",
   "license": "MIT",
   "devDependencies": {
     "netlify-shortener": "*"
