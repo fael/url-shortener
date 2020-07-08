@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Rafael)",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "*"
+  }
+}
